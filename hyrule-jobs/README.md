@@ -25,4 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 참고 링크
 - [강좌](https://www.youtube.com/watch?v=JfI5PISLr9w&list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD&index=1)
+- [#4 - Types & Props](https://www.youtube.com/watch?v=JfI5PISLr9w&list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD&index=4)
 - [저장소](https://github.com/iamshaunjp/vue-with-typescript)
